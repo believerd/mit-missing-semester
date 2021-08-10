@@ -1,0 +1,2 @@
+#!/bin/sh
+./semester | grep last-modified > last-modified.txt
